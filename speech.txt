@@ -19,3 +19,16 @@ Let’s build the future together."
 LONG
 
 Hello, I’m Giorgio Moretti.With over 25 years of experience leading the technology agenda for the financial, airline, and sports industries, I specialize in turning complex technical challenges into strategic business advantages. My background is rooted in a Master’s in Computer Science and a deep expertise in Cloud Architecture, Data Intelligence, and Artificial Intelligence.  Throughout my career, I have thrived in high-pressure international contexts. I’ve managed cross-functional teams of over 50 professionals, delivering large-scale cloud solutions and digital transformations for global organizations like UEFA, EPAM Systems, and IATA.  From overseeing $200 billion in annual financial settlements at IATA to architecting advanced Customer Data Platforms at UEFA, my focus is always on delivery and quality. I am an entrepreneurially-driven leader who is just as comfortable defining a C-level technology roadmap as I am overseeing the execution of an Agile DevOps team.  I am passionate about leveraging technology to drive innovation and operational excellence. Let's connect and discuss how we can build the future together.
+
+
+ANONYM
+
+"Hello, I’m Giorgio Moretti.
+
+With over 25 years of experience leading the technology agenda for the financial, airline, and sports industries, I specialize in turning complex technical challenges into strategic business advantages. My background is rooted in a Master in Computer Science and a deep expertise in Cloud Architecture, Data Intelligence, and Artificial Intelligence.
+
+Throughout my career, I have thrived in high-pressure international contexts. I’ve managed cross-functional teams of over 50 professionals, delivering large-scale cloud solutions and digital transformations for global organizations.
+
+From overseeing $200 billion in annual financial settlements for the aviation industry to architecting advanced Customer Data Platforms in the football domain, my focus is always on delivery and quality. I am an entrepreneurially-driven leader who is just as comfortable defining a C-level technology roadmap as I am overseeing the execution of an Agile DevOps team.
+
+I am passionate about leveraging technology to drive innovation and operational excellence. Let's connect and discuss how we can build the future together." 
